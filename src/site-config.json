@@ -1,0 +1,548 @@
+{
+  "business": {
+    "name": "PMR Cabinets",
+    "phone": "+17208419574",
+    "category": "carpenter",
+    "city": "Oklahoma City",
+    "state": "OK"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-heritage-craft",
+      "categoryGroup": "roofing",
+      "name": "Heritage Craft",
+      "recipeFile": "roofing/heritage-craft.astro",
+      "colors": {
+        "primary": "#3D2E1F",
+        "primaryDark": "#251A10",
+        "primaryLight": "#D4C5B0",
+        "secondary": "#5C4A3A",
+        "accent": "#6B5335",
+        "background": "#F5F2ED",
+        "backgroundAlt": "#5C4A3A",
+        "surface": "#EDEAE4",
+        "text": "#1A1510",
+        "textLight": "#4A4540",
+        "textOnDark": "#F5F2ED",
+        "border": "#D5CEBC"
+      },
+      "typography": {
+        "headingFont": "Playfair Display",
+        "headingWeight": "600",
+        "bodyFont": "Libre Franklin",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.25"
+      },
+      "shape": {
+        "borderRadius": "4px",
+        "buttonRadius": "4px",
+        "cardRadius": "6px",
+        "shadowStyle": "subtle"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "generous"
+      }
+    },
+    "recipeId": "roofing/heritage-craft"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Crafting Oklahoma City, One Project at a Time",
+      "heroSubline": "Precision carpentry and unwavering commitment to quality. Serving Oklahoma City and surrounding areas with integrity and skill.",
+      "aboutTitle": "Built on Craftsmanship, Rooted in Oklahoma",
+      "aboutText": [
+        "PMR Cabinets started with a simple mission: to bring superior carpentry to Oklahoma City homes and businesses. Founded by a local craftsman who grew up building alongside his father, we understand the unique challenges and opportunities this region presents.",
+        "Our approach is straightforward: meticulous planning, skilled execution, and a dedication to exceeding expectations. We believe in clear communication, transparent pricing, and a commitment to delivering results that stand the test of time. We treat every project, big or small, with the same level of care and attention to detail.",
+        "We are proud to be part of the Oklahoma City community. We source local materials whenever possible, and we actively support local initiatives. We believe in giving back to the community that has supported us."
+      ],
+      "valueProps": [
+        {
+          "title": "Expert Craftsmanship",
+          "description": "Years of experience delivering exceptional results in every project we undertake."
+        },
+        {
+          "title": "Local Expertise",
+          "description": "Deep understanding of Oklahoma City's unique housing styles and climate challenges."
+        },
+        {
+          "title": "Transparent Pricing",
+          "description": "Clear and upfront pricing with no hidden fees or surprises."
+        },
+        {
+          "title": "Reliable Service",
+          "description": "We are committed to completing projects on time and within budget."
+        }
+      ],
+      "ctaHeadline": "Ready to Transform Your Space?",
+      "ctaSubline": "Contact PMR Cabinets today for a free consultation and estimate. Let's build something amazing together."
+    },
+    "services": [
+      {
+        "slug": "custom-cabinetry",
+        "name": "Custom Cabinetry",
+        "shortDescription": "Elevate your space with handcrafted, custom-designed cabinets.",
+        "description": "Custom cabinetry is more than just storage; it's an investment in the beauty and functionality of your home. At PMR Cabinets, we design and build bespoke cabinetry solutions tailored to your specific needs and style. Whether you're looking to revamp your kitchen, create a luxurious bathroom vanity, or add elegant storage to your living room, our skilled craftsmen will bring your vision to life.\n\nWe begin with a detailed consultation to understand your preferences, needs, and budget. Working with the finest materials, we create detailed designs that maximize space and enhance the overall aesthetic of your home. Our expert installation ensures a perfect fit and lasting durability.\n\nFrom traditional to contemporary designs, we handle every aspect of the project, from initial design to final installation. We understand the challenges of Oklahoma City's climate, including the expansion and contraction of wood due to humidity, and we build our cabinets to withstand these conditions, ensuring they remain beautiful and functional for years to come.",
+        "process": [
+          "Step 1: Initial consultation to discuss your needs and preferences.",
+          "Step 2: Design and material selection, including 3D renderings for visualization.",
+          "Step 3: Expert fabrication using high-quality materials and time-tested techniques.",
+          "Step 4: Precise installation by our experienced team of carpenters."
+        ],
+        "benefits": [
+          "Maximize space and storage efficiency",
+          "Enhance the aesthetic appeal of your home",
+          "Increase property value",
+          "Create a personalized and functional living space"
+        ],
+        "faq": [
+          {
+            "question": "What materials do you use for custom cabinetry?",
+            "answer": "We use a variety of high-quality materials, including hardwoods like oak, maple, and cherry, as well as plywood and MDF for certain applications. We offer a wide range of finishes and hardware options to suit your style."
+          },
+          {
+            "question": "How long does it take to complete a custom cabinetry project?",
+            "answer": "The timeline varies depending on the complexity of the project. However, we typically complete projects within 4-8 weeks from the initial consultation to final installation. We provide a detailed timeline during the design phase."
+          },
+          {
+            "question": "Do you offer a warranty on your custom cabinetry?",
+            "answer": "Yes, we offer a one-year warranty on all our custom cabinetry, covering defects in materials and workmanship. We stand behind the quality of our work and are committed to your satisfaction."
+          }
+        ]
+      },
+      {
+        "slug": "trim-and-molding",
+        "name": "Trim and Molding Installation",
+        "shortDescription": "Add the perfect finishing touches to your home with expert trim and molding installation.",
+        "description": "Trim and molding are essential elements that add character, elegance, and value to any home. PMR Cabinets specializes in the installation of a wide range of trim and molding options, from classic crown molding to modern baseboards and door casings. We understand the importance of precise cuts, seamless joints, and flawless finishes.\n\nOur experienced carpenters will carefully assess your space, recommend the best trim and molding options to complement your style, and execute the installation with meticulous attention to detail. We work with various materials, including wood, MDF, and PVC, ensuring that your trim and molding are not only beautiful but also durable and long-lasting, even with Oklahoma's challenging weather.\n\nWhether you're renovating your entire home or simply adding a touch of elegance to a single room, PMR Cabinets will deliver exceptional results. We pay close attention to proper sealing and caulking to prevent moisture damage, a common problem in Oklahoma City's clay soil environment, ensuring your trim and molding look great for years to come.",
+        "process": [
+          "Step 1: On-site assessment and consultation to determine the best trim and molding options.",
+          "Step 2: Precise measurements and material selection.",
+          "Step 3: Expert cutting, fitting, and installation.",
+          "Step 4: Caulking, sealing, and finishing for a flawless look."
+        ],
+        "benefits": [
+          "Enhance the aesthetic appeal of your home",
+          "Add character and value",
+          "Cover imperfections and protect walls",
+          "Increase property value"
+        ],
+        "faq": [
+          {
+            "question": "What types of trim and molding do you install?",
+            "answer": "We install a wide range of trim and molding, including crown molding, baseboards, door casings, window casings, chair rails, and wainscoting. We can also create custom trim and molding designs to meet your specific needs."
+          },
+          {
+            "question": "How long does trim and molding installation take?",
+            "answer": "The timeline depends on the size and complexity of the project. However, we typically complete trim and molding installations within a few days to a week. We provide a detailed timeline during the consultation phase."
+          },
+          {
+            "question": "Do you offer painting or staining services for trim and molding?",
+            "answer": "Yes, we offer complete painting and staining services to ensure your trim and molding perfectly match your existing decor. We use high-quality paints and stains for a durable and beautiful finish."
+          }
+        ]
+      },
+      {
+        "slug": "door-installation",
+        "name": "Door Installation and Repair",
+        "shortDescription": "Secure and beautify your home with professional door installation and repair services.",
+        "description": "A properly installed and maintained door is crucial for security, energy efficiency, and curb appeal. PMR Cabinets offers comprehensive door installation and repair services for both interior and exterior doors. Whether you need a new front entry door, a replacement patio door, or repairs to an existing door, our skilled carpenters have the expertise to get the job done right.\n\nWe handle all types of doors, including wood, fiberglass, steel, and composite. We ensure proper alignment, secure hardware installation, and weather stripping to prevent drafts and leaks. We also address common door problems such as sticking, squeaking, and misalignment, extending the life of your existing doors.\n\nWe understand the importance of security in Oklahoma City, and we offer high-security door options with reinforced frames and locks. We also consider the impact of Oklahoma's weather on doors, ensuring that our installations are resistant to warping, cracking, and water damage.",
+        "process": [
+          "Step 1: Assessment of your door needs and selection of the appropriate door type and hardware.",
+          "Step 2: Precise measurements and preparation of the door frame.",
+          "Step 3: Expert installation of the door, hardware, and weather stripping.",
+          "Step 4: Final adjustments and testing to ensure smooth operation and security."
+        ],
+        "benefits": [
+          "Enhanced security and safety",
+          "Improved energy efficiency",
+          "Increased curb appeal",
+          "Proper functionality and longevity"
+        ],
+        "faq": [
+          {
+            "question": "What types of doors do you install?",
+            "answer": "We install a wide range of doors, including entry doors, patio doors, interior doors, storm doors, and security doors. We work with various materials, including wood, fiberglass, steel, and composite."
+          },
+          {
+            "question": "How long does door installation take?",
+            "answer": "Door installation typically takes a few hours to a full day, depending on the complexity of the project. We provide a detailed timeline during the consultation phase."
+          },
+          {
+            "question": "Do you offer door repair services?",
+            "answer": "Yes, we offer comprehensive door repair services, including fixing sticking doors, replacing damaged hardware, repairing damaged frames, and addressing security issues."
+          }
+        ]
+      },
+      {
+        "slug": "furniture-repair",
+        "name": "Furniture Repair and Restoration",
+        "shortDescription": "Restore your cherished furniture to its former glory with our expert repair and restoration services.",
+        "description": "Don't discard your damaged or worn furniture – PMR Cabinets can bring it back to life. Our furniture repair and restoration services cover a wide range of issues, from broken legs and loose joints to damaged finishes and upholstery repairs. We treat every piece with the utmost care and attention to detail, preserving its original character and value.\n\nWe use traditional techniques and high-quality materials to ensure lasting repairs. We can match existing finishes, repair veneer damage, and reupholster furniture to restore it to its original beauty. We understand the sentimental value that furniture often holds, and we strive to exceed your expectations with our craftsmanship.\n\nWe understand that Oklahoma City homes often have antique or heirloom furniture, and we take special care to preserve the integrity of these pieces during the restoration process.",
+        "process": [
+          "Step 1: Detailed assessment of the furniture damage and determination of the best repair or restoration approach.",
+          "Step 2: Careful disassembly and cleaning of the furniture.",
+          "Step 3: Repair of structural damage, including broken legs, loose joints, and damaged frames.",
+          "Step 4: Refinishing, reupholstering, and reassembly to restore the furniture to its original condition."
+        ],
+        "benefits": [
+          "Preserve the value and beauty of your furniture",
+          "Extend the life of your furniture",
+          "Restore sentimental pieces to their former glory",
+          "Avoid the cost of replacing furniture"
+        ],
+        "faq": [
+          {
+            "question": "What types of furniture do you repair and restore?",
+            "answer": "We repair and restore a wide range of furniture, including chairs, tables, sofas, dressers, and antiques. We work with various materials, including wood, upholstery, and metal."
+          },
+          {
+            "question": "How long does furniture repair and restoration take?",
+            "answer": "The timeline depends on the extent of the damage and the complexity of the restoration. We provide a detailed timeline during the assessment phase."
+          },
+          {
+            "question": "Do you offer furniture refinishing services?",
+            "answer": "Yes, we offer complete furniture refinishing services, including stripping old finishes, sanding, staining, and applying new protective coatings."
+          }
+        ]
+      },
+      {
+        "slug": "deck-and-porch-repair",
+        "name": "Deck and Porch Repair",
+        "shortDescription": "Restore your outdoor living space with reliable deck and porch repair services.",
+        "description": "Decks and porches are wonderful additions to any Oklahoma City home, but they require regular maintenance to withstand the elements. PMR Cabinets offers comprehensive deck and porch repair services to ensure your outdoor living space remains safe, functional, and beautiful. We address common problems such as rotting wood, loose railings, damaged steps, and weather damage.\n\nWe use high-quality materials and proven techniques to ensure lasting repairs. We can replace damaged boards, reinforce support structures, and apply protective coatings to prevent future damage. We also ensure that your deck or porch meets all local building codes and safety regulations.\n\nWe understand that Oklahoma's weather, including severe storms and ice, can take a toll on decks and porches, and we build our repairs to withstand these conditions.",
+        "process": [
+          "Step 1: Thorough inspection of the deck or porch to identify areas of damage and deterioration.",
+          "Step 2: Removal of damaged wood and replacement with new, pressure-treated lumber.",
+          "Step 3: Reinforcement of support structures and tightening of loose connections.",
+          "Step 4: Application of protective coatings to prevent future damage."
+        ],
+        "benefits": [
+          "Ensure the safety and stability of your deck or porch",
+          "Extend the life of your outdoor living space",
+          "Enhance the appearance of your home",
+          "Increase property value"
+        ],
+        "faq": [
+          {
+            "question": "What types of deck and porch repairs do you offer?",
+            "answer": "We offer a wide range of deck and porch repairs, including replacing damaged boards, repairing railings, reinforcing support structures, and applying protective coatings."
+          },
+          {
+            "question": "How long does deck and porch repair take?",
+            "answer": "The timeline depends on the extent of the damage and the complexity of the repairs. We provide a detailed timeline during the inspection phase."
+          },
+          {
+            "question": "Do you offer deck and porch staining and sealing services?",
+            "answer": "Yes, we offer complete deck and porch staining and sealing services to protect your outdoor living space from the elements and enhance its appearance."
+          }
+        ]
+      },
+      {
+        "slug": "custom-shelving",
+        "name": "Custom Shelving Solutions",
+        "shortDescription": "Maximize your space with custom-designed shelving systems.",
+        "description": "Tired of clutter? PMR Cabinets designs and installs custom shelving solutions to maximize your space and organize your belongings. Whether you need shelving for your closet, pantry, home office, or garage, we can create a system that meets your specific needs and style. We build our shelves to withstand the weight of items and to last for years to come.\n\nWe offer a wide range of materials, finishes, and hardware options to complement your existing decor. Our experienced carpenters will carefully measure your space and create a design that optimizes storage and enhances the overall aesthetic of your home.\n\nGiven the limited space in some older Oklahoma City homes, custom shelving is a great solution to maximize efficiency.",
+        "process": [
+          "Step 1: On-site consultation to assess your storage needs and design preferences.",
+          "Step 2: Precise measurements of the space and creation of a custom shelving design.",
+          "Step 3: Fabrication of the shelving system using high-quality materials.",
+          "Step 4: Professional installation by our experienced carpenters."
+        ],
+        "benefits": [
+          "Maximize space and organization",
+          "Enhance the aesthetic appeal of your home",
+          "Create a personalized storage solution",
+          "Increase property value"
+        ],
+        "faq": [
+          {
+            "question": "What types of materials do you use for custom shelving?",
+            "answer": "We use a variety of materials, including wood, plywood, MDF, and laminate. We offer a wide range of finishes and hardware options to suit your style."
+          },
+          {
+            "question": "How long does custom shelving installation take?",
+            "answer": "The timeline depends on the size and complexity of the project. However, we typically complete custom shelving installations within a few days to a week. We provide a detailed timeline during the consultation phase."
+          },
+          {
+            "question": "Do you offer adjustable shelving options?",
+            "answer": "Yes, we offer adjustable shelving options to allow you to customize your storage space as your needs change."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Oklahoma City",
+        "slug": "oklahoma-city-ok",
+        "state": "OK",
+        "content": "PMR Cabinets is proud to offer expert carpentry services to the residents and businesses of Oklahoma City. From custom kitchen cabinets to intricate woodworking projects, we bring years of experience and a commitment to quality craftsmanship to every job. We understand the unique architectural styles found throughout OKC, and we tailor our services to complement the character of your home or business. \n\nWhether you're looking to renovate your kitchen in the Paseo Arts District, build custom shelving in your Plaza District loft, or need assistance with a commercial project downtown, PMR Cabinets is here to help. We use only the finest materials and employ time-tested techniques to ensure lasting beauty and functionality. Our goal is to exceed your expectations and deliver results that you'll be proud of for years to come.",
+        "localContext": "Oklahoma City is a vibrant and growing metropolis with a strong sense of community and a diverse range of architectural styles, from historic homes to modern skyscrapers. We are familiar with the local building codes and regulations and can help you navigate the permitting process.",
+        "nearbyAreas": [
+          "Edmond",
+          "Moore",
+          "Norman"
+        ]
+      },
+      {
+        "city": "Edmond",
+        "slug": "edmond-ok",
+        "state": "OK",
+        "content": "PMR Cabinets extends its exceptional carpentry services to the thriving community of Edmond, Oklahoma. We understand the unique needs of Edmond homeowners and businesses, offering custom cabinet solutions, bespoke furniture designs, and expert woodworking for any project, big or small. Our commitment to quality and attention to detail ensures that every piece we create is a testament to lasting craftsmanship.\n\nFrom designing elegant kitchen cabinetry to crafting custom built-ins for your home office, PMR Cabinets is dedicated to bringing your vision to life in Edmond. We prioritize using premium materials and employing skilled techniques to deliver superior results that enhance the beauty and functionality of your space. Let us transform your home or business with our personalized carpentry services.",
+        "localContext": "Edmond is known for its family-friendly atmosphere, excellent schools, and beautiful residential neighborhoods. Our carpentry services are tailored to complement the suburban lifestyle and architectural preferences of Edmond residents.",
+        "nearbyAreas": [
+          "Oklahoma City",
+          "Guthrie",
+          "The Village"
+        ]
+      },
+      {
+        "city": "Moore",
+        "slug": "moore-ok",
+        "state": "OK",
+        "content": "PMR Cabinets proudly serves the Moore, Oklahoma community with top-notch carpentry solutions. We understand the specific needs of Moore residents and businesses, offering services ranging from custom cabinet design and installation to intricate woodworking projects. We are committed to providing durable and beautiful carpentry work that enhances the value and comfort of your space. \n\nWhether you're renovating your home after a storm or looking to add custom storage solutions, PMR Cabinets is here to assist. We focus on using high-quality materials and proven techniques to ensure long-lasting results. Our goal is to provide personalized services that meet your unique requirements and exceed your expectations.",
+        "localContext": "Moore is a resilient and close-knit community with a strong sense of pride. We are familiar with the local building codes and are dedicated to providing reliable and trustworthy carpentry services to Moore residents.",
+        "nearbyAreas": [
+          "Oklahoma City",
+          "Norman",
+          "Newcastle"
+        ]
+      },
+      {
+        "city": "Norman",
+        "slug": "norman-ok",
+        "state": "OK",
+        "content": "PMR Cabinets is pleased to offer its expert carpentry services to the vibrant city of Norman, Oklahoma. We cater to the diverse needs of Norman residents and businesses, providing custom cabinet solutions, furniture design, and detailed woodworking. Our commitment to quality ensures that every project reflects our dedication to superior craftsmanship.\n\nFrom creating stylish kitchen cabinets to building custom shelving units, PMR Cabinets is ready to transform your space in Norman. We focus on using premium materials and skilled techniques to deliver exceptional results that enhance the functionality and beauty of your home or business. Let us bring your vision to life with our personalized carpentry services.",
+        "localContext": "Norman is a dynamic city known for the University of Oklahoma and a thriving arts and culture scene. We take pride in providing carpentry services that enhance the unique character and style of Norman homes and businesses.",
+        "nearbyAreas": [
+          "Oklahoma City",
+          "Moore",
+          "Purcell"
+        ]
+      },
+      {
+        "city": "Mustang",
+        "slug": "mustang-ok",
+        "state": "OK",
+        "content": "PMR Cabinets extends its professional carpentry services to the growing community of Mustang, Oklahoma. We understand the needs of Mustang homeowners and businesses, offering custom cabinet solutions, bespoke furniture designs, and expert woodworking for any project. Our commitment to quality and attention to detail ensures that every piece we create is a testament to lasting craftsmanship.\n\nFrom designing elegant kitchen cabinetry to crafting custom built-ins for your home office, PMR Cabinets is dedicated to bringing your vision to life in Mustang. We prioritize using premium materials and employing skilled techniques to deliver superior results that enhance the beauty and functionality of your space. Let us transform your home or business with our personalized carpentry services.",
+        "localContext": "Mustang is a family-oriented community known for its excellent schools and friendly atmosphere. Our carpentry services are tailored to complement the suburban lifestyle and architectural preferences of Mustang residents.",
+        "nearbyAreas": [
+          "Oklahoma City",
+          "Yukon",
+          "Union City"
+        ]
+      },
+      {
+        "city": "Yukon",
+        "slug": "yukon-ok",
+        "state": "OK",
+        "content": "PMR Cabinets is proud to offer expert carpentry services to the residents and businesses of Yukon, Oklahoma. From custom kitchen cabinets to intricate woodworking projects, we bring years of experience and a commitment to quality craftsmanship to every job. We understand the unique architectural styles found throughout Yukon, and we tailor our services to complement the character of your home or business. \n\nWhether you're looking to renovate your kitchen, build custom shelving, or need assistance with a commercial project, PMR Cabinets is here to help. We use only the finest materials and employ time-tested techniques to ensure lasting beauty and functionality. Our goal is to exceed your expectations and deliver results that you'll be proud of for years to come.",
+        "localContext": "Yukon is a vibrant community with a rich history and a strong sense of local pride. We are familiar with the local building codes and regulations and can help you navigate the permitting process.",
+        "nearbyAreas": [
+          "Oklahoma City",
+          "Mustang",
+          "Piedmont"
+        ]
+      },
+      {
+        "city": "Shawnee",
+        "slug": "shawnee-ok",
+        "state": "OK",
+        "content": "PMR Cabinets provides superior carpentry services to the residents and businesses of Shawnee, Oklahoma. We bring expertise in custom cabinetry, furniture design, and general woodworking to every project, ensuring quality and satisfaction. Our attention to detail and commitment to using durable materials sets us apart.\n\nWhether you need new kitchen cabinets, custom shelving, or assistance with a renovation project, PMR Cabinets is ready to help. We aim to exceed your expectations by delivering exceptional results that enhance your living or working space. We tailor our services to meet your specific needs, ensuring a personalized and professional experience.",
+        "localContext": "Shawnee, Oklahoma is a city with a blend of historical charm and modern development, known for its community spirit and local businesses. We understand the architectural styles and preferences of Shawnee residents.",
+        "nearbyAreas": [
+          "Tecumseh",
+          "Seminole",
+          "McLoud"
+        ]
+      },
+      {
+        "city": "Guthrie",
+        "slug": "guthrie-ok",
+        "state": "OK",
+        "content": "PMR Cabinets is delighted to offer its quality carpentry services to the historical town of Guthrie, Oklahoma. We understand the unique architectural heritage of Guthrie and tailor our services to complement the historic homes and buildings in the area. From custom woodworking to designing period-appropriate cabinets, we are committed to preserving the charm and character of Guthrie.\n\nWhether you are restoring a Victorian-era home or renovating a commercial space in the downtown area, PMR Cabinets is here to assist with your carpentry needs. We use premium materials and time-honored techniques to ensure the durability and authenticity of our work. Let us help you maintain the beauty and integrity of your property with our personalized carpentry solutions.",
+        "localContext": "Guthrie is known for its well-preserved Victorian architecture and historical significance as the first capital of Oklahoma. We take pride in providing carpentry services that respect and enhance the unique character of this historic town.",
+        "nearbyAreas": [
+          "Edmond",
+          "Stillwater",
+          "Crescent"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Sarah M.",
+        "rating": 5,
+        "service": "Custom Cabinetry",
+        "text": "PMR Cabinets built beautiful custom cabinets for our kitchen remodel. The quality of the craftsmanship is outstanding, and they were a pleasure to work with throughout the entire process. They really listened to what we wanted and delivered beyond our expectations.",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "David K.",
+        "rating": 4,
+        "service": "Trim and Molding Installation",
+        "text": "We hired PMR Cabinets to install crown molding in our living room and dining room. The work was done quickly and professionally. There was a small issue with one of the corners, but they came back and fixed it right away. We are very happy with the results.",
+        "date": "2024-11-20"
+      },
+      {
+        "name": "Jessica L.",
+        "rating": 5,
+        "service": "Door Installation",
+        "text": "PMR Cabinets installed a new front door for us, and we couldn't be happier. The old door was drafty and insecure, but the new door is solid and energy-efficient. The installation was flawless, and the price was very reasonable.",
+        "date": "2024-09-01"
+      },
+      {
+        "name": "Michael B.",
+        "rating": 5,
+        "service": "Furniture Repair",
+        "text": "I had an antique chair that had been in my family for generations. The leg was broken, and the upholstery was torn. PMR Cabinets restored it beautifully. I was amazed at the level of detail and care they put into the repair. It looks like new again!",
+        "date": "2025-01-10"
+      },
+      {
+        "name": "Ashley R.",
+        "rating": 4,
+        "service": "Deck and Porch Repair",
+        "text": "Our deck had some rotting boards and a loose railing. PMR Cabinets came out and repaired it quickly and efficiently. They were very professional and knowledgeable. I would definitely recommend them.",
+        "date": "2024-07-05"
+      },
+      {
+        "name": "Kevin S.",
+        "rating": 5,
+        "service": "Custom Shelving",
+        "text": "PMR Cabinets built custom shelving for our home office, and it's exactly what we needed. They maximized the space and created a functional and stylish storage solution. The quality of the materials is excellent, and the installation was perfect.",
+        "date": "2025-04-02"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "PMR Cabinets | Oklahoma City Carpenter",
+        "description": "Expert carpentry in OKC. Custom cabinets, trim, doors, furniture repair. Free quotes!"
+      },
+      "about": {
+        "title": "About PMR Cabinets | Oklahoma City OK",
+        "description": "Learn about PMR Cabinets, your trusted local carpenter in Oklahoma City. Quality craftsmanship."
+      },
+      "services": {
+        "title": "PMR Cabinets Services | OKC Carpentry",
+        "description": "Our carpentry services in Oklahoma City include custom cabinets, trim, door install, furniture repair."
+      },
+      "contact": {
+        "title": "Contact PMR Cabinets | Oklahoma City OK",
+        "description": "Contact PMR Cabinets for carpentry services in Oklahoma City. Get a free quote today!"
+      },
+      "reviews": {
+        "title": "PMR Cabinets Reviews | Oklahoma City OK",
+        "description": "Read reviews for PMR Cabinets, your local Oklahoma City carpentry experts."
+      },
+      "service-areas": {
+        "title": "PMR Cabinets Service Areas | Oklahoma",
+        "description": "PMR Cabinets - Serving Oklahoma City and surrounding area. Call today for a quote!"
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "custom-cabinetry": "/images/service-custom-cabinetry.webp",
+      "trim-and-molding": "/images/service-trim-and-molding.webp",
+      "door-installation": "/images/service-door-installation.webp",
+      "furniture-repair": "/images/service-furniture-repair.webp",
+      "deck-and-porch-repair": "/images/service-deck-and-porch-repair.webp",
+      "custom-shelving": "/images/service-custom-shelving.webp"
+    },
+    "servicesResponsive": {
+      "custom-cabinetry": {
+        "src": "/images/service-custom-cabinetry.webp",
+        "srcset": "/images/service-custom-cabinetry-400w.webp 400w, /images/service-custom-cabinetry-800w.webp 800w, /images/service-custom-cabinetry-1200w.webp 1200w, /images/service-custom-cabinetry.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "trim-and-molding": {
+        "src": "/images/service-trim-and-molding.webp",
+        "srcset": "/images/service-trim-and-molding-400w.webp 400w, /images/service-trim-and-molding-800w.webp 800w, /images/service-trim-and-molding-1200w.webp 1200w, /images/service-trim-and-molding.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "door-installation": {
+        "src": "/images/service-door-installation.webp",
+        "srcset": "/images/service-door-installation-400w.webp 400w, /images/service-door-installation-800w.webp 800w, /images/service-door-installation-1200w.webp 1200w, /images/service-door-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "furniture-repair": {
+        "src": "/images/service-furniture-repair.webp",
+        "srcset": "/images/service-furniture-repair-400w.webp 400w, /images/service-furniture-repair-800w.webp 800w, /images/service-furniture-repair-1200w.webp 1200w, /images/service-furniture-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "deck-and-porch-repair": {
+        "src": "/images/service-deck-and-porch-repair.webp",
+        "srcset": "/images/service-deck-and-porch-repair-400w.webp 400w, /images/service-deck-and-porch-repair-800w.webp 800w, /images/service-deck-and-porch-repair-1200w.webp 1200w, /images/service-deck-and-porch-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "custom-shelving": {
+        "src": "/images/service-custom-shelving.webp",
+        "srcset": "/images/service-custom-shelving-400w.webp 400w, /images/service-custom-shelving-800w.webp 800w, /images/service-custom-shelving-1200w.webp 1200w, /images/service-custom-shelving.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
